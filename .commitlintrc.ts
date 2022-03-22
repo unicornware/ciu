@@ -47,6 +47,7 @@ const config: UserConfig = {
       'always',
       [
         'algs',
+        'arrays',
         'deps',
         'deps-dev',
         'deps-opt',
